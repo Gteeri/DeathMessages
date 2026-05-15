@@ -1,0 +1,7 @@
+prefix: "&8[&cDeathMessages&8] &7"
+reload-success: "Configuration reloaded successfully."
+no-permission: "You don't have permission to do that."
+disabled: "DeathMessages is currently disabled."
+toggled-on: "Death messages enabled."
+toggled-off: "Death messages disabled."
+usage: "Usage: /deathmsg <reload|toggle>"

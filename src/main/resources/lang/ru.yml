@@ -1,0 +1,7 @@
+prefix: "&8[&cDeathMessages&8] &7"
+reload-success: "Конфигурация успешно перезагружена."
+no-permission: "У вас нет прав для этого."
+disabled: "DeathMessages отключен."
+toggled-on: "Сообщения о смерти включены."
+toggled-off: "Сообщения о смерти отключены."
+usage: "Использование: /deathmsg <reload|toggle>"

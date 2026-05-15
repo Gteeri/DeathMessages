@@ -1,0 +1,36 @@
+player-kill:
+  - "&c{victim} &7was slain by &c{killer} &7using &f{weapon}"
+  - "&c{victim} &7got destroyed by &c{killer}"
+  - "&c{killer} &7ended &c{victim}&7's life with &f{weapon}"
+
+fall:
+  - "&c{victim} &7fell from a high place"
+  - "&c{victim} &7didn't bounce"
+  - "&c{victim} &7tried to fly"
+
+drowning:
+  - "&c{victim} &7forgot to breathe"
+  - "&c{victim} &7went swimming with the fishes"
+  - "&c{victim} &7drowned"
+
+fire:
+  - "&c{victim} &7was roasted alive"
+  - "&c{victim} &7played with fire"
+  - "&c{victim} &7burned to a crisp"
+
+explosion:
+  - "&c{victim} &7went boom"
+  - "&c{victim} &7was blown to bits"
+  - "&c{victim} &7exploded"
+
+void:
+  - "&c{victim} &7fell into the void"
+  - "&c{victim} &7discovered the end of the world"
+
+mob:
+  - "&c{victim} &7was killed by &e{mob}"
+  - "&e{mob} &7took out &c{victim}"
+
+default:
+  - "&c{victim} &7died"
+  - "&c{victim} &7met their end"
